@@ -1,0 +1,1 @@
+Este archivo contiene una explicacion de todo lo que se va a codear en C en el TP0
