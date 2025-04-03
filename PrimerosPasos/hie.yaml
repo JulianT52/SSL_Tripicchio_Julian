@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "PrimerosPasos:lib"
+
+    - path: "./test"
+      component: "PrimerosPasos:test:PrimerosPasos-test"
